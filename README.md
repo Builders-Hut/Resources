@@ -4,7 +4,10 @@ Main repository housing all the resources shared during sessions, along with fre
 
 ## Quick Navigation
 
+### Resources
+
 - [how to ask for help](https://github.com/Builders-Hut/Resources/blob/main/Resources/how_to_ask_for_help.md)
+- [git and github](https://github.com/Builders-Hut/Resources/blob/main/Resources/git_and_github.md)
 
 ## TODO
 
