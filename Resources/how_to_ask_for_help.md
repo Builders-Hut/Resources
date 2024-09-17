@@ -44,13 +44,3 @@ Before asking a person, try these:
 - Programming forums
 
 All most all technologies will have their own dedicated channels on the above
-
-## 6. Be patient and polite
-
-Remember, most people helping you are volunteers. Say please and thank you, and try to learn from their explanations so you can solve similar problems in the future.
-
-## 7. Share what you learn
-
-Once you figure something out, consider sharing the solution. It might help another beginner later on!
-
-Remember, everyone starts somewhere. Don't be afraid to ask for help - it's part of learning!
